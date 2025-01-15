@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 300" width="200" height="300">
+  <!-- Door frame -->
+  <rect x="10" y="10" width="180" height="280" fill="gold" stroke="black" stroke-width="5"/>
+  
+  <!-- Left door -->
+  <rect x="10" y="10" width="85" height="280" fill="gold" stroke="black" stroke-width="5"/>
+  
+  <!-- Right door -->
+  <rect x="105" y="10" width="85" height="280" fill="gold" stroke="black" stroke-width="5"/>
+  
+  <!-- Door handles -->
+  <circle cx="40" cy="150" r="5" fill="black"/>
+  <circle cx="160" cy="150" r="5" fill="black"/>
+</svg>
